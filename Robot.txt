@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://seginstallationtool.github.io/sitemap.xml
